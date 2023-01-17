@@ -1,0 +1,2 @@
+# TSingletonSimpleComplete
+由于游戏中的Manger很多，故可以用这个模式来统一管理一些共有的东西
